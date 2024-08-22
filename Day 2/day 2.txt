@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Instagram wikipedia</title>
+</head>
+<body>
+<img src=>
+<h1><center><b>Instagram</b></center></h1>
+<p>Instagram is a photo and video sharing social networking service owned by Meta   Platforms.</p>
+<h2>History</h2>
+<p>Instagram began development in San Francisco as Burbn,a mobile check-in app created by Kevin Systrom and Mike Krieger.</p>
+<h2>Features and tools</h2>
+<p>Users can upload photographs and short videos,follow other users'feeds,and geotag images with the name of a location.</p>
+<h2>Hashtags</h2>
+<p>Instagram introduced hashtags to help users discover both photos and each other.</p>
+<h2>Explore</h2>
+<p>Instagram introduced "Explore",a tab inside the app that displays popular photos, photos taken at nearby locations, and search.</p>
+<h2>Photographic filters</h2>
+<p>Instagram offers a number of photographic filters that users can apply to their images.</p><h2>Videos</h2>
+<p>Instagram added support for widescreen videos.</p>
+<h2>IGTV</h2>
+<p>IGTV was a vertical video application launched by Instagram.</p>
+<h2>Reels</h2>
+<p>It is similar in functionality to the Chinese video-sharing service TikTok.</p>
+<h2>Stories</h2>
+<p>The media noted the feature's similarities to Snapchat.</p>
+<h2>Instagram Addiction</h2>
+<p>2019 showed that users who feel that they spend too much time on Instagram report higher levels of "addiction" to Instagram, which in turn was related to higher self-reported levels of stress induced by the app.</p>
+</body>
+</html>
